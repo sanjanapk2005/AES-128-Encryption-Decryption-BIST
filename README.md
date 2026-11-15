@@ -75,8 +75,6 @@ The repository includes:
 - Area reports
 - Power reports
 - Timing reports
-- Synthesis logs
-- Design constraints
 
 ## Repository Structure
 
@@ -84,14 +82,16 @@ The repository includes:
 AES-128-Encryption-Decryption-BIST/
 │
 ├── RTL/
+│
 ├── TESTBENCH/
+│
 ├── REPORTS/
+│
 ├── CONSTRAINTS/
+│
 ├── SIMULATION_RESULTS/
-├── CADENCE_SCRIPTS/
-├── CADENCE_LOGS/
-└── FORMAL_VERIFICATION/
-```
+│
+└── README.md
 
 ## Key Learning Outcomes
 
