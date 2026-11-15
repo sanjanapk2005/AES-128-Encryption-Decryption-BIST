@@ -95,13 +95,13 @@ AES-128-Encryption-Decryption-BIST/
 
 ## Key Learning Outcomes
 
-- Understanding AES-128 encryption and decryption architecture.
-- RTL design and verification using Verilog HDL.
-- Understanding Built-In Self-Test architecture.
-- LFSR-based test-pattern generation.
-- MISR-based signature analysis.
-- Fault injection and fault detection.
-- Working with Cadence EDA tools for simulation and synthesis.
+- Gained an understanding of AES-128 encryption and decryption architecture.
+- Developed and verified RTL designs using Verilog HDL.
+- Understood the architecture and working principles of Built-In Self-Test (BIST).
+- Implemented LFSR-based test-pattern generation.
+- Explored MISR-based signature generation and analysis.
+- Implemented fault injection to evaluate BIST fault-detection capability.
+- Gained practical exposure to Cadence EDA tools for RTL simulation and synthesis.
 
 ## Author
 
@@ -109,4 +109,4 @@ AES-128-Encryption-Decryption-BIST/
 
 Electronics and Communication Engineering
 
-Areas of Interest: VLSI Design, ASIC Design and Verification.
+**Areas of Interest:** VLSI Design, ASIC Design, RTL Design and Verification.
