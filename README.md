@@ -93,6 +93,8 @@ AES-128-Encryption-Decryption-BIST/
 │
 └── README.md
 
+```
+
 ## Key Learning Outcomes
 
 - Gained an understanding of AES-128 encryption and decryption architecture.
